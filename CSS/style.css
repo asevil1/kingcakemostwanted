@@ -1,0 +1,69 @@
+
+body{
+    color: white;
+    background: black;
+
+}
+
+h1{
+
+}
+
+
+h2{
+text-align: center;
+}
+
+.introduction-paragraph{
+    text-align: center;
+
+}
+.introduction-paragraph2{
+    margin-left: 300px;
+    text-align: center;
+
+}
+
+.page-title{
+    color: red;
+    text-decoration: underline;
+    text-align: center;
+
+}
+
+.profile-pic1{
+    height: 250px;
+    width: 250px;
+    padding: 20px;
+
+}
+
+.report-description{
+
+    text-align:center;
+    margin: auto;
+
+}
+
+.unknown-user{
+    margin-left: 300px;
+    height: 250px;
+    width: 200px;
+    padding: 20px;
+
+}
+
+.wanted-globe{
+
+    position: absolute;
+    bottom: 20px;
+    left: 20px;
+    height:100px;
+    width: 100px;
+
+}
+
+.wanted-user2{
+    margin-left: 300px;
+
+}
